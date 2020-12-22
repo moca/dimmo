@@ -1,9 +1,12 @@
 # About this repo  🏡🇫🇷💵
 
-This repo is for exploration purposes regarding the open database of house pricing in Frances.
-Explorations are done around the FGrenob
+This repo is for exploration purposes with the objectives to explore:
+ - The open database of house pricing in France.
+ - Dash from plotly
+
+Work is based around the Grenoble area.
 
 # TODOs
-- Learn more about dash !
+- Explore all dash tutorial
 - Explore dvf data 
   - Investigate how de-duplicate prices in appartments.
